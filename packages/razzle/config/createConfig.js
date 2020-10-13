@@ -1,5 +1,6 @@
 'use strict';
 console.log('leijingdao')
+console.log('leijingdao1')
 const fs = require('fs-extra');
 const path = require('path');
 const webpack = require('webpack');
