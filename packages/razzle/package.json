@@ -4,7 +4,7 @@
   "license": "MIT",
   "author": "Jared Palmer <jared@palmer.net>",
   "repository": "git@github.com:jaredpalmer/razzle.git",
-  "version": "3.1.7",
+  "version": "3.1.9",
   "bin": {
     "razzle": "./bin/razzle.js"
   },
